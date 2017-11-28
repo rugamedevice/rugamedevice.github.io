@@ -7,25 +7,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rugamedevice.ru/%D0%BE-%D0%BD%D0%B0%D1%81.html</loc>
-    <lastmod>2017-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rugamedevice.ru/%D1%82%D0%BE%D0%B2%D0%B0%D1%80.html</loc>
-    <lastmod>2017-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://rugamedevice.ru/faq.html</loc>
     <lastmod>2017-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rugamedevice.ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B.html</loc>
+    <loc>http://rugamedevice.ru/contacts.html</loc>
+    <lastmod>2017-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rugamedevice.ru/about.html</loc>
+    <lastmod>2017-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rugamedevice.ru/goods.html</loc>
     <lastmod>2017-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

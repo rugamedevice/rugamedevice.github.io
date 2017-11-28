@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'rugamedevice@users.noreply.github.com',
-		'to' => 'rugamedevice@users.noreply.github.com'
+		'from' => 'Mail@rugamedevice.ru',
+		'to' => 'Mail@rugamedevice.ru'
 	),
 	'fields' => array(
 		'custom_U25286' => array(
