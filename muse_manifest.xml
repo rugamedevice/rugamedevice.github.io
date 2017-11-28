@@ -1,0 +1,101 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511864075414">
+  <folder name="css">
+    <file name="site_global.css" crc="3827448247"/>
+    <file name="index.css" crc="4224309878" ref="index"/>
+    <file name="________.css" crc="59373759" ref="контакты"/>
+    <file name="faq.css" crc="404242887" ref="faq"/>
+    <file name="_-___.css" crc="192083153" ref="о-нас"/>
+    <file name="_____.css" crc="3810237740" ref="товар"/>
+    <file name="iefonts_index.css" crc="4146572909" ref="index"/>
+    <file name="iefonts______.css" crc="181040407" ref="товар"/>
+    <file name="master_template.css" crc="394611464" ref="контакты:о-нас:faq:index:товар"/>
+    <file name="iefonts__-___.css" crc="28894350" ref="о-нас"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="museutils.js" crc="3803043152" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="museconfig.js" crc="380897831" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="webpro.js" crc="242022427" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:товар:о-нас:faq:контакты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="require.js" crc="4157109226" ref="index:о-нас:товар:faq:контакты"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u25272.php" crc="3860615736" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:товар:о-нас"/>
+    <file name="monitor-klaviatura-myska-smartfon-planset.jpg" crc="314194280" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76462720.jpg" crc="142300268" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="124.jpg" crc="357741085" ref="index:товар">
+      <caption webpage="index" alt=""/>
+      <caption webpage="товар" alt=""/>
+    </file>
+    <file name="4.jpg" crc="185268374" ref="index:товар">
+      <caption webpage="index" alt=""/>
+      <caption webpage="товар" alt=""/>
+    </file>
+    <file name="2.jpg" crc="197689910" ref="index:товар">
+      <caption webpage="index" alt=""/>
+      <caption webpage="товар" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4135800101" ref="index:товар">
+      <caption webpage="index" alt=""/>
+      <caption webpage="товар" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4026233879" ref="index:товар">
+      <caption webpage="index" alt=""/>
+      <caption webpage="товар" alt=""/>
+    </file>
+    <file name="wallhaven-145276.jpg" crc="254712482" ref="товар:faq:контакты">
+      <caption webpage="товар" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="user.png" crc="90478448" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email.png" crc="442634775" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone.png" crc="114631871" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speech-bubble.png" crc="274017168" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="4039240506" ref="index:товар:о-нас"/>
+    <file name="onas.jpg" crc="238392567" ref="о-нас">
+      <caption webpage="о-нас" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="478613728" seo="true" mt="1511864067389" redirect="true"/>
+  <file name="о-нас.html" crc="229262448" seo="true" mt="1511861980064" redirect="true"/>
+  <file name="товар.html" crc="85792342" seo="true" mt="1511860673145" redirect="true"/>
+  <file name="faq.html" crc="120790940" seo="true" mt="1511859964096" redirect="true"/>
+  <file name="контакты.html" crc="4247139171" seo="true" mt="1511859964096" redirect="true"/>
+</manifest>
