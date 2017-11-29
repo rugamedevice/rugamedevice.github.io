@@ -1,48 +1,48 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511953327748">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511968147373">
   <folder name="css">
     <file name="site_global.css" crc="118981354"/>
-    <file name="master_template.css" crc="62182782" ref="index:faq:contacts:goods:about"/>
-    <file name="index.css" crc="323145461" ref="index"/>
-    <file name="iefonts_index.css" crc="4123308576" ref="index"/>
-    <file name="faq.css" crc="213539135" ref="faq"/>
-    <file name="contacts.css" crc="4225891761" ref="contacts"/>
+    <file name="master_template.css" crc="4165856458" ref="goods:faq:contacts:index:about"/>
+    <file name="nomq_preview_master_template.css" crc="268997294" ref="goods:faq:contacts:index:about"/>
     <file name="goods.css" crc="3870854705" ref="goods"/>
-    <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
-    <file name="about.css" crc="3985853841" ref="about"/>
-    <file name="iefonts_about.css" crc="4123308576" ref="about"/>
-    <file name="nomq_preview_master_template.css" crc="268997294" ref="contacts:index:goods:faq:about"/>
-    <file name="nomq_contacts.css" crc="3805858603" ref="contacts"/>
-    <file name="nomq_index.css" crc="4217131989" ref="index"/>
     <file name="nomq_goods.css" crc="33424675" ref="goods"/>
+    <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
+    <file name="faq.css" crc="213539135" ref="faq"/>
     <file name="nomq_faq.css" crc="4131371917" ref="faq"/>
+    <file name="contacts.css" crc="4225891761" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="3805858603" ref="contacts"/>
+    <file name="index.css" crc="443908348" ref="index"/>
+    <file name="nomq_index.css" crc="431046912" ref="index"/>
+    <file name="iefonts_index.css" crc="4123308576" ref="index"/>
+    <file name="about.css" crc="3985853841" ref="about"/>
     <file name="nomq_about.css" crc="377288761" ref="about"/>
+    <file name="iefonts_about.css" crc="4123308576" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:faq:contacts:about:goods"/>
-    <file name="museutils.js" crc="3803043152" ref="index:faq:contacts:about:goods"/>
-    <file name="whatinput.js" crc="86476730" ref="index:faq:contacts:about:goods"/>
-    <file name="museconfig.js" crc="380897831" ref="index:faq:contacts:about:goods"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:faq:contacts:about:goods"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:faq:contacts:about:goods"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:goods:faq:contacts"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:goods:faq:contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:goods:faq:contacts"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
     <file name="webpro.js" crc="242022427" ref="index:about:goods:faq:contacts"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:goods:faq:contacts"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u25272.php" crc="4239139500" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:faq:contacts:about:goods"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:goods:faq:contacts"/>
+    <file name="require.js" crc="4157109226" ref="index:about:goods:faq:contacts"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4039240506" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:goods:faq:contacts"/>
     <file name="monitor-klaviatura-myska-smartfon-planset.jpg" crc="314194280" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:faq:contacts:goods"/>
     <file name="124.jpg" crc="357741085" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -51,7 +51,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shop" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -59,7 +58,6 @@
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
-      <caption webpage="товары" alt=""/>
     </file>
     <file name="4.jpg" crc="3972413733" ref="index:goods">
       <caption webpage="index" alt=""/>
@@ -69,7 +67,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shop" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -77,7 +74,6 @@
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
-      <caption webpage="товары" alt=""/>
     </file>
     <file name="2.jpg" crc="3851276255" ref="index:goods">
       <caption webpage="index" alt=""/>
@@ -87,7 +83,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shop" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -95,7 +90,6 @@
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
-      <caption webpage="товары" alt=""/>
     </file>
     <file name="3.jpg" crc="4039683440" ref="index:goods">
       <caption webpage="index" alt=""/>
@@ -105,7 +99,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shop" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -113,7 +106,6 @@
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
-      <caption webpage="товары" alt=""/>
     </file>
     <file name="1.jpg" crc="4042969175" ref="index:goods">
       <caption webpage="index" alt=""/>
@@ -123,7 +115,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shop" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -131,7 +122,6 @@
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
-      <caption webpage="товары" alt=""/>
     </file>
     <file name="76462720.jpg" crc="142300268" ref="index">
       <caption webpage="index" alt=""/>
@@ -262,14 +252,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wallhaven-145276.jpg" crc="4209558207" ref="faq:contacts">
-      <caption webpage="товары" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="goods" alt=""/>
-    </file>
+    <file name="monitor-klaviatura-myska-smartfon-planset-u22984-fr.jpg" crc="209938897" ref="index"/>
     <file name="goods.jpg" crc="380978270" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -286,16 +269,19 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="monitor-klaviatura-myska-smartfon-planset-u22984-fr.jpg" crc="209938897" ref="index"/>
-    <file name="wallhaven-145276-u25533-fr.jpg" crc="3995578099" ref="faq:contacts"/>
     <file name="about.jpg" crc="528127283" ref="goods">
       <caption webpage="goods" alt=""/>
     </file>
     <file name="about-u24827-fr.jpg" crc="196076417" ref="goods"/>
+    <file name="wallhaven-145276.jpg" crc="4209558207" ref="faq:contacts">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="wallhaven-145276-u25533-fr.jpg" crc="3995578099" ref="faq:contacts"/>
   </folder>
-  <file name="index.html" crc="3803673597" seo="true" mt="1511953298062" redirect="true"/>
-  <file name="faq.html" crc="363871150" seo="true" mt="1511953298062" redirect="true"/>
-  <file name="contacts.html" crc="159809454" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="index.html" crc="4551990" seo="true" mt="1511967704012" redirect="true"/>
   <file name="about.html" crc="228546061" seo="true" mt="1511953298062" redirect="true"/>
   <file name="goods.html" crc="65879835" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="faq.html" crc="363871150" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="contacts.html" crc="159809454" seo="true" mt="1511953298062" redirect="true"/>
 </manifest>
