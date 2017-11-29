@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511947421067">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511953327748">
   <folder name="css">
     <file name="site_global.css" crc="118981354"/>
-    <file name="master_template.css" crc="4077301195" ref="index:faq:contacts:goods:about"/>
-    <file name="index.css" crc="4105170689" ref="index"/>
+    <file name="master_template.css" crc="62182782" ref="index:faq:contacts:goods:about"/>
+    <file name="index.css" crc="323145461" ref="index"/>
     <file name="iefonts_index.css" crc="4123308576" ref="index"/>
     <file name="faq.css" crc="213539135" ref="faq"/>
     <file name="contacts.css" crc="4225891761" ref="contacts"/>
-    <file name="goods.css" crc="3898807114" ref="goods"/>
+    <file name="goods.css" crc="3870854705" ref="goods"/>
     <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
     <file name="about.css" crc="3985853841" ref="about"/>
     <file name="iefonts_about.css" crc="4123308576" ref="about"/>
     <file name="nomq_preview_master_template.css" crc="268997294" ref="contacts:index:goods:faq:about"/>
     <file name="nomq_contacts.css" crc="3805858603" ref="contacts"/>
-    <file name="nomq_index.css" crc="172160288" ref="index"/>
-    <file name="nomq_goods.css" crc="4175674996" ref="goods"/>
+    <file name="nomq_index.css" crc="4217131989" ref="index"/>
+    <file name="nomq_goods.css" crc="33424675" ref="goods"/>
     <file name="nomq_faq.css" crc="4131371917" ref="faq"/>
     <file name="nomq_about.css" crc="377288761" ref="about"/>
   </folder>
@@ -42,7 +42,7 @@
     <file name="monitor-klaviatura-myska-smartfon-planset.jpg" crc="314194280" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:goods:faq:contacts"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:faq:contacts:goods"/>
     <file name="124.jpg" crc="357741085" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -51,16 +51,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="товары" alt=""/>
     </file>
-    <file name="4.jpg" crc="185268374" ref="index:goods">
+    <file name="4.jpg" crc="3972413733" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -68,16 +69,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="товары" alt=""/>
     </file>
-    <file name="2.jpg" crc="197689910" ref="index:goods">
+    <file name="2.jpg" crc="3851276255" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -85,16 +87,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="товары" alt=""/>
     </file>
-    <file name="3.jpg" crc="4135800101" ref="index:goods">
+    <file name="3.jpg" crc="4039683440" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -102,16 +105,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="товары" alt=""/>
     </file>
-    <file name="1.jpg" crc="4026233879" ref="index:goods">
+    <file name="1.jpg" crc="4042969175" ref="index:goods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -119,14 +123,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="товары" alt=""/>
     </file>
     <file name="76462720.jpg" crc="142300268" ref="index">
       <caption webpage="index" alt=""/>
@@ -258,12 +263,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="wallhaven-145276.jpg" crc="4209558207" ref="faq:contacts">
+      <caption webpage="товары" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="connect" alt=""/>
-      <caption webpage="товары" alt=""/>
-      <caption webpage="goods" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="goods" alt=""/>
     </file>
     <file name="goods.jpg" crc="380978270" ref="about">
       <caption webpage="about" alt=""/>
@@ -288,9 +293,9 @@
     </file>
     <file name="about-u24827-fr.jpg" crc="196076417" ref="goods"/>
   </folder>
-  <file name="index.html" crc="383832916" seo="true" mt="1511947371502" redirect="true"/>
-  <file name="faq.html" crc="369365541" seo="true" mt="1511947371502" redirect="true"/>
-  <file name="contacts.html" crc="182064753" seo="true" mt="1511947371502" redirect="true"/>
-  <file name="about.html" crc="3815616261" seo="true" mt="1511947371502" redirect="true"/>
-  <file name="goods.html" crc="207051723" seo="true" mt="1511947382772" redirect="true"/>
+  <file name="index.html" crc="3803673597" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="faq.html" crc="363871150" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="contacts.html" crc="159809454" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="about.html" crc="228546061" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="goods.html" crc="65879835" seo="true" mt="1511953298062" redirect="true"/>
 </manifest>
