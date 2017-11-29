@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511968147373">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511969324442">
   <folder name="css">
     <file name="site_global.css" crc="118981354"/>
-    <file name="master_template.css" crc="4165856458" ref="goods:faq:contacts:index:about"/>
+    <file name="master_template.css" crc="3836961133" ref="goods:faq:contacts:index:about"/>
     <file name="nomq_preview_master_template.css" crc="268997294" ref="goods:faq:contacts:index:about"/>
-    <file name="goods.css" crc="3870854705" ref="goods"/>
-    <file name="nomq_goods.css" crc="33424675" ref="goods"/>
+    <file name="goods.css" crc="520524921" ref="goods"/>
+    <file name="nomq_goods.css" crc="3960255364" ref="goods"/>
     <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
-    <file name="faq.css" crc="213539135" ref="faq"/>
-    <file name="nomq_faq.css" crc="4131371917" ref="faq"/>
-    <file name="contacts.css" crc="4225891761" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="3805858603" ref="contacts"/>
-    <file name="index.css" crc="443908348" ref="index"/>
-    <file name="nomq_index.css" crc="431046912" ref="index"/>
+    <file name="faq.css" crc="4093288446" ref="faq"/>
+    <file name="nomq_faq.css" crc="226197171" ref="faq"/>
+    <file name="contacts.css" crc="38525424" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="429657621" ref="contacts"/>
+    <file name="index.css" crc="4031879320" ref="index"/>
+    <file name="nomq_index.css" crc="3938698471" ref="index"/>
     <file name="iefonts_index.css" crc="4123308576" ref="index"/>
-    <file name="about.css" crc="3985853841" ref="about"/>
-    <file name="nomq_about.css" crc="377288761" ref="about"/>
+    <file name="about.css" crc="25785349" ref="about"/>
+    <file name="nomq_about.css" crc="335533054" ref="about"/>
     <file name="iefonts_about.css" crc="4123308576" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -279,9 +279,9 @@
     </file>
     <file name="wallhaven-145276-u25533-fr.jpg" crc="3995578099" ref="faq:contacts"/>
   </folder>
-  <file name="index.html" crc="4551990" seo="true" mt="1511967704012" redirect="true"/>
-  <file name="about.html" crc="228546061" seo="true" mt="1511953298062" redirect="true"/>
-  <file name="goods.html" crc="65879835" seo="true" mt="1511953298062" redirect="true"/>
-  <file name="faq.html" crc="363871150" seo="true" mt="1511953298062" redirect="true"/>
-  <file name="contacts.html" crc="159809454" seo="true" mt="1511953298062" redirect="true"/>
+  <file name="index.html" crc="4180384921" seo="true" mt="1511969286218" redirect="true"/>
+  <file name="about.html" crc="3923562525" seo="true" mt="1511969286218" redirect="true"/>
+  <file name="goods.html" crc="3830904015" seo="true" mt="1511969286218" redirect="true"/>
+  <file name="faq.html" crc="3904364168" seo="true" mt="1511969286218" redirect="true"/>
+  <file name="contacts.html" crc="219779089" seo="true" mt="1511969286218" redirect="true"/>
 </manifest>
