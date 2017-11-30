@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1512070445286">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1512070646408">
   <folder name="css">
     <file name="site_global.css" crc="118981354"/>
-    <file name="master_template.css" crc="55955268" ref="goods:faq:contacts:index:about"/>
-    <file name="nomq_preview_master_template.css" crc="270166280" ref="goods:faq:contacts:index:about"/>
-    <file name="goods.css" crc="4000453447" ref="goods"/>
-    <file name="nomq_goods.css" crc="4094021155" ref="goods"/>
-    <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
-    <file name="faq.css" crc="4235028255" ref="faq"/>
-    <file name="nomq_faq.css" crc="3991857509" ref="faq"/>
-    <file name="contacts.css" crc="4129686955" ref="contacts"/>
+    <file name="master_template.css" crc="55955268" ref="contacts:about:faq:index:goods"/>
+    <file name="nomq_preview_master_template.css" crc="270166280" ref="contacts:about:faq:index:goods"/>
+    <file name="contacts.css" crc="264219651" ref="contacts"/>
     <file name="nomq_contacts.css" crc="4178155971" ref="contacts"/>
-    <file name="index.css" crc="94994955" ref="index"/>
+    <file name="about.css" crc="532801180" ref="about"/>
+    <file name="nomq_about.css" crc="3894567142" ref="about"/>
+    <file name="iefonts_about.css" crc="4123308576" ref="about"/>
+    <file name="faq.css" crc="3929807646" ref="faq"/>
+    <file name="nomq_faq.css" crc="3991857509" ref="faq"/>
+    <file name="index.css" crc="109086949" ref="index"/>
     <file name="nomq_index.css" crc="367714543" ref="index"/>
     <file name="iefonts_index.css" crc="4123308576" ref="index"/>
-    <file name="about.css" crc="427376835" ref="about"/>
-    <file name="nomq_about.css" crc="3766909860" ref="about"/>
-    <file name="iefonts_about.css" crc="4123308576" ref="about"/>
+    <file name="goods.css" crc="4097510185" ref="goods"/>
+    <file name="nomq_goods.css" crc="402925872" ref="goods"/>
+    <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:goods:faq:contacts"/>
@@ -23,20 +23,20 @@
     <file name="whatinput.js" crc="86476730" ref="index:about:goods:faq:contacts"/>
     <file name="museconfig.js" crc="380897831" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
     <file name="webpro.js" crc="242022427" ref="index:about:goods:faq:contacts"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:goods:faq:contacts"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u25272.php" crc="4239139500" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:goods:faq:contacts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:goods:faq:contacts"/>
     <file name="require.js" crc="4157109226" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:goods:faq:contacts"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:goods:faq:contacts"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4039240506" ref="index"/>
@@ -418,9 +418,9 @@
     </file>
     <file name="wallhaven-145276-u25533-fr.jpg" crc="3995578099" ref="faq:contacts"/>
   </folder>
-  <file name="index.html" crc="352562261" seo="true" mt="1512070372507" redirect="true"/>
-  <file name="about.html" crc="504165420" seo="true" mt="1512069162437" redirect="true"/>
-  <file name="goods.html" crc="26186848" seo="true" mt="1512069162437" redirect="true"/>
-  <file name="faq.html" crc="40414970" seo="true" mt="1512069162437" redirect="true"/>
-  <file name="contacts.html" crc="4053505149" seo="true" mt="1512069162437" redirect="true"/>
+  <file name="index.html" crc="41924507" seo="true" mt="1512070598365" redirect="true"/>
+  <file name="about.html" crc="3853520533" seo="true" mt="1512070598365" redirect="true"/>
+  <file name="goods.html" crc="3901438340" seo="true" mt="1512070598365" redirect="true"/>
+  <file name="faq.html" crc="3895177506" seo="true" mt="1512070598365" redirect="true"/>
+  <file name="contacts.html" crc="4031604094" seo="true" mt="1512070598365" redirect="true"/>
 </manifest>
