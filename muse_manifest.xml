@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1511969324442">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rugamedevice.ru" resolutions="1x" timestamp="1512070445286">
   <folder name="css">
     <file name="site_global.css" crc="118981354"/>
-    <file name="master_template.css" crc="3836961133" ref="goods:faq:contacts:index:about"/>
-    <file name="nomq_preview_master_template.css" crc="268997294" ref="goods:faq:contacts:index:about"/>
-    <file name="goods.css" crc="520524921" ref="goods"/>
-    <file name="nomq_goods.css" crc="3960255364" ref="goods"/>
+    <file name="master_template.css" crc="55955268" ref="goods:faq:contacts:index:about"/>
+    <file name="nomq_preview_master_template.css" crc="270166280" ref="goods:faq:contacts:index:about"/>
+    <file name="goods.css" crc="4000453447" ref="goods"/>
+    <file name="nomq_goods.css" crc="4094021155" ref="goods"/>
     <file name="iefonts_goods.css" crc="4123308576" ref="goods"/>
-    <file name="faq.css" crc="4093288446" ref="faq"/>
-    <file name="nomq_faq.css" crc="226197171" ref="faq"/>
-    <file name="contacts.css" crc="38525424" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="429657621" ref="contacts"/>
-    <file name="index.css" crc="4031879320" ref="index"/>
-    <file name="nomq_index.css" crc="3938698471" ref="index"/>
+    <file name="faq.css" crc="4235028255" ref="faq"/>
+    <file name="nomq_faq.css" crc="3991857509" ref="faq"/>
+    <file name="contacts.css" crc="4129686955" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="4178155971" ref="contacts"/>
+    <file name="index.css" crc="94994955" ref="index"/>
+    <file name="nomq_index.css" crc="367714543" ref="index"/>
     <file name="iefonts_index.css" crc="4123308576" ref="index"/>
-    <file name="about.css" crc="25785349" ref="about"/>
-    <file name="nomq_about.css" crc="335533054" ref="about"/>
+    <file name="about.css" crc="427376835" ref="about"/>
+    <file name="nomq_about.css" crc="3766909860" ref="about"/>
     <file name="iefonts_about.css" crc="4123308576" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -23,19 +23,20 @@
     <file name="whatinput.js" crc="86476730" ref="index:about:goods:faq:contacts"/>
     <file name="museconfig.js" crc="380897831" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
     <file name="webpro.js" crc="242022427" ref="index:about:goods:faq:contacts"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:goods:faq:contacts"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u25272.php" crc="4239139500" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:goods:faq:contacts"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:goods:faq:contacts"/>
     <file name="require.js" crc="4157109226" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:goods:faq:contacts"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:goods:faq:contacts"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:goods:faq:contacts"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:goods:faq:contacts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:goods:faq:contacts"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:goods:faq:contacts"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4039240506" ref="index"/>
@@ -51,6 +52,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -67,6 +77,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -83,6 +102,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -99,6 +127,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -115,6 +152,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
+      <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
       <caption webpage="goods" alt=""/>
@@ -131,8 +177,33 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="user.png" crc="90478448" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -191,8 +262,48 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="smartphone.png" crc="114631871" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -251,6 +362,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="monitor-klaviatura-myska-smartfon-planset-u22984-fr.jpg" crc="209938897" ref="index"/>
     <file name="goods.jpg" crc="380978270" ref="about">
@@ -260,8 +391,16 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="about photo.jpg" crc="4233446956" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -279,9 +418,9 @@
     </file>
     <file name="wallhaven-145276-u25533-fr.jpg" crc="3995578099" ref="faq:contacts"/>
   </folder>
-  <file name="index.html" crc="4180384921" seo="true" mt="1511969286218" redirect="true"/>
-  <file name="about.html" crc="3923562525" seo="true" mt="1511969286218" redirect="true"/>
-  <file name="goods.html" crc="3830904015" seo="true" mt="1511969286218" redirect="true"/>
-  <file name="faq.html" crc="3904364168" seo="true" mt="1511969286218" redirect="true"/>
-  <file name="contacts.html" crc="219779089" seo="true" mt="1511969286218" redirect="true"/>
+  <file name="index.html" crc="352562261" seo="true" mt="1512070372507" redirect="true"/>
+  <file name="about.html" crc="504165420" seo="true" mt="1512069162437" redirect="true"/>
+  <file name="goods.html" crc="26186848" seo="true" mt="1512069162437" redirect="true"/>
+  <file name="faq.html" crc="40414970" seo="true" mt="1512069162437" redirect="true"/>
+  <file name="contacts.html" crc="4053505149" seo="true" mt="1512069162437" redirect="true"/>
 </manifest>
